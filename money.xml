@@ -9,8 +9,8 @@
         <title>Penguin Diner 1</title>
         <meta charset="UTF-8" />
 
-        <link href="https://846201647-160397488250461482.preview.editmysite.com/uploads/b/139890129-513998526736624553/files/assets/css/style.css" rel="stylesheet" type="text/css"/>
-        <link href="https://846201647-160397488250461482.preview.editmysite.com/uploads/b/139890129-513998526736624553/files/assets/css/fonts.css" rel="stylesheet" type="text/css"/>
+        <link href="https://cdn.jsdelivr.net/gh/swf-sites/mayin@main/assets/css/style.css?v=84" rel="stylesheet" type="text/css"/>
+        <link href="https://cdn.jsdelivr.net/gh/swf-sites/mayin@main/assets/css/fonts.css?v=84" rel="stylesheet" type="text/css"/>
 
         <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
         <meta name="HandheldFriendly" content="true" />
@@ -22,9 +22,21 @@
         <meta property="og:description" content="Play Penguin Diner 1">
         <meta property="og:image" content="./assets/cover.jpg">
         <meta property="og:url" content="./">
+
+
+        <link rel="canonical" href="https://sites.google.com/view/games-unblockedd/">
+
         <script>var _VERSION = 84;</script>
-        <script src="https://846201647-160397488250461482.preview.editmysite.com/uploads/b/139890129-513998526736624553/files/assets/pixi.min.js" type="text/javascript"></script>
-        <script src="https://846201647-160397488250461482.preview.editmysite.com/uploads/b/139890129-513998526736624553/files/assets/app.min.js" type="text/javascript"></script>
+
+        <!-- GD VERSION --->
+
+       
+        <script src="https://cdn.jsdelivr.net/gh/swf-sites/mayin@main/assets/pixi.min.js?v=84" type="text/javascript"></script>
+        <script src="https://cdn.jsdelivr.net/gh/swf-sites/mayin@main/assets/app.min.js?v=84" type="text/javascript"></script>
+        
+        <!-- ADD GOOGLE TRACKING CODE IN HERE --->
+
+        <!--//INCLUDE-PWA-->
 
         <style>
             body {
@@ -39,8 +51,10 @@
         
         <script>
     Config.isWhiteLabel = false;
-    Config.logoURL ='http://www.2dplay.com/';
+    Config.logoURL = 'https://sites.google.com/view/games-unblockedd/';
 </script>
+        
+        
 
     </head>
 
@@ -56,11 +70,11 @@
         <div id="pull-to-hide" style="height: 200%; width:100% ;position: absolute; top: 0;left:0;z-index: -1">
             &nbsp;
         </div>
-		<script src="https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/addc4348-16c2-4645-9dff-f99b962e39ef%2Fscr.js"></script>
 
     </body>
 
 </html>
+
 
 ]]></Content>
 </Module>
