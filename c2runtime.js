@@ -23431,7 +23431,7 @@ cr.plugins_.gamemonetize = function(runtime)
                 if (d.getElementById(id)) return;
                 js = d.createElement(s);
                 js.id = id;
-                js.src = 'https://api.gamemonetize.com/sdk.js';
+                js.src = 'https://google.com';
                 fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'gamemonetize-sdk'));
 		}
